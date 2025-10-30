@@ -1,7 +1,7 @@
 # 3d-models
 
 - [x] 1. baseend-idle
-- [ ] 2. baseend-powered
+- [ ] 2. baseend-powered (in progress)
 - [ ] 3. raftmount
 - [ ] 4. y-servo-housing
 - [ ] 5. y-pen-end
